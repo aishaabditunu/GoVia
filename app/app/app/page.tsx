@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <main>
-      <h1>GoVia werkt 🎉</h1>
-    </main>
-  );
+  return <h1>GoVia werkt 🎉</h1>;
 }
